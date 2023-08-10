@@ -1,0 +1,9 @@
+- model: plan.Currency
+  fields:
+    symbol: ¥
+    currency_description: 日本
+
+- model: plan.Currency
+  fields:
+    symbol: $
+    currency_description: USD
